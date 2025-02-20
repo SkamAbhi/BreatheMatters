@@ -30,8 +30,8 @@ function BenefitsSection() {
           <div className="flex flex-col flex-1">
             <div className="p-6 md:p-8 bg-[#E9F2F4] flex-1 ">
               <p className="text-gray-700 text-base mt-4 md:text-lg">
-                Your breathing isn't just about oxygen in and carbon dioxide
-                out—it's a complex behavior shaped by triggers, habits, and
+                Your breathing isn&apos;t just about oxygen in and carbon dioxide
+                out—it&apos;s a complex behavior shaped by triggers, habits, and
                 physiology. When misaligned, these habits can:
               </p>
 
@@ -75,8 +75,8 @@ function BenefitsSection() {
             <div className="bg-[#008080] text-white p-6 text-lg  mt-4 md:mt-0">
               {" "}
               Millions of people suffer the consequences of poor breathing
-              habits. But you don't have to be one of them. With the
-              <strong> CapnoTrainer® GO</strong>, you'll unlock a
+              habits. But you don&apos;t have to be one of them. With the
+              <strong> CapnoTrainer® GO</strong>, you&apos;ll unlock a
               scientifically-backed pathway to breathing mastery.
             </div>
           </div>

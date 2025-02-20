@@ -7,7 +7,7 @@ export default function FooterSection() {
       <div className="max-w-[1440px] w-full">
         <section className="text-white text-center py-12 rounded-lg bg-[radial-gradient(50%_50%_at_50%_50%,_#008080_0%,_#035C5C_100%)]">
           <h3 className="text-lg font-semibold uppercase tracking-wider font-serif">
-            Don't Wait
+            Don&apos;t Wait
           </h3>
           <h2 className="text-2xl md:text-4xl font-bold mt-2 uppercase font-serif">
             Transform Your Breathing Today!
