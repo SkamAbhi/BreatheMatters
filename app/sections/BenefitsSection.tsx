@@ -26,7 +26,7 @@ function BenefitsSection() {
         />
       </div>
 
-      <div className="flex flex-col flex-1">
+      <div className="flex flex-col ">
       <div className="p-6 md:p-8 bg-[#E9F2F4]  ">
       <p className="text-gray-700 text-base mt-4 md:text-lg">
             Your breathing isn&apos;t just about oxygen in and carbon dioxide
